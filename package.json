@@ -1,0 +1,20 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "practice test with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "touredri",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@jest/globals": "^29.5.0",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "jsdom": "^21.1.1"
+  }
+}
